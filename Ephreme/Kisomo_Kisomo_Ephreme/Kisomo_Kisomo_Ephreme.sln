@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kisomo_Kisomo_Ephreme", "Kisomo_Kisomo_Ephreme\Kisomo_Kisomo_Ephreme.csproj", "{6A846141-2A83-4B4A-9495-D01980421490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A846141-2A83-4B4A-9495-D01980421490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A846141-2A83-4B4A-9495-D01980421490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A846141-2A83-4B4A-9495-D01980421490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A846141-2A83-4B4A-9495-D01980421490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E9B6B7A-14D7-48EE-9BB9-9C3C556F068F}
+	EndGlobalSection
+EndGlobal
